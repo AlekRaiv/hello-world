@@ -1,2 +1,3 @@
 # hello-world
-This is my first repository for testing github options.
+Это мой первый репозиторий для освоения функционала ГитХаба.
+Для пробы: *вот ссылка на мой телеграм* [Telegram](https://t.me/A_Gron)
